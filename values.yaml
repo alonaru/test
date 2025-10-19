@@ -1,0 +1,6 @@
+name: guestbook-ui
+replicaCount: 1
+image: gcr.io/google_samples/gb-frontend:v4
+service:
+  type: LoadBalancer
+  port: 80
