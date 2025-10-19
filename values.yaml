@@ -1,4 +1,4 @@
-name: guestbook-ui
+name: guestbook-ui-ng
 replicaCount: 1
 image: gcr.io/google_samples/gb-frontend:v4
 service:
